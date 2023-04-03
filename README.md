@@ -1,2 +1,2 @@
 # Intelligent_medical
-Intelligent medical Image Analysis System
+Intelligent Medical Image Analysis System
